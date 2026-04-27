@@ -1,4 +1,4 @@
-# Expedite Technology Services 🚀
+# Expedite Software Services 🚀
 
 > **India's Trusted IT Outsourcing & Offshore Software Development Partner**
 
