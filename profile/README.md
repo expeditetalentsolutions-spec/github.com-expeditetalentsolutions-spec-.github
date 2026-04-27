@@ -117,12 +117,12 @@ Ready to scale your engineering team or build your next product with an offshore
 | Platform | Link |
 |---|---|
 | 🌐 Website | [expeditets.com](https://expeditets.com/india/) |
-| 💼 LinkedIn | [Expedite Technology Services](https://www.linkedin.com/company/expedite-technology-services) |
+| 💼 LinkedIn | [Expedite Software Services](https://www.linkedin.com/company/expedite-software-services) |
 | 🏆 Clutch Profile | [Reviews on Clutch](https://clutch.co) |
-| 📧 Email | contact@expeditets.com |
+| 📧 Email | indiainfo@expeditets.com |
 
 ---
 
 <div align="center">
-<sub>© Expedite Technology Services | IT Outsourcing India | Offshore Software Development | Staff Augmentation</sub>
+<sub>© Expedite Software Services | IT Outsourcing India | Offshore Software Development | Staff Augmentation</sub>
 </div>
